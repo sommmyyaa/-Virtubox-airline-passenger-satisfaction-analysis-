@@ -1,5 +1,8 @@
 # Data Analyst Assessment — README / Methodology
 
+
+https://docs.google.com/spreadsheets/d/1SEhyJmbS8igyYIQkLb7x3cauMvPlRY8z/edit?usp=sharing&ouid=116896028053749145608&rtpof=true&sd=true
+
 **Name:** Somya Gupta
 **Assessment:** Data Analyst Assessment Test (VirtuBox)
 
